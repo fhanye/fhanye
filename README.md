@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @fhanye
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-fhanye/fhanye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, eu sou o Fhanye (meu apelido, pelo menos).
+Eu sou um pequeno aprendiz de front-end.
+Aceito propostas, adoro um desafio :)
